@@ -148,10 +148,10 @@ Durante o desenvolvimento, foram realizados testes para verificar o funcionament
 
 Projeto desenvolvido em grupo pelos seguintes integrantes:
 
-- **Flavia Etuany Gomes da Silva Cunha**
-- **Yuna Bellotto Vieira** — RA: 077862
-- **Leonardo Silva Gomes** — RA: 248189
+- **Flavia Etuany Gomes da Silva Cunha** - RA: 247233
 - **Igor Nogueira Alves dos Santos** — RA: 246482
+- **Leonardo Silva Gomes** — RA: 248189
+- **Yuna Bellotto Vieira** — RA: 077862
 
 ---
 
