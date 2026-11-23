@@ -155,7 +155,7 @@ Projeto desenvolvido em grupo pelos seguintes integrantes:
 
 ---
 
-## 📚 Referências.
+## 📚 Referências
 
 - Manual da Impressora Elgin i8/i9.
 - Documentação do SDK Elgin — Elgin Developer Community.
