@@ -1,4 +1,4 @@
-# 📘 Projeto – Sistema PDV com Impressora Elgin i8/i9
+%# 📘 Projeto – Sistema PDV com Impressora Elgin i8/i9
 
 ## 📖 Sobre o Projeto
 
